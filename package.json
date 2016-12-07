@@ -1,0 +1,23 @@
+{
+  "name": "webpack-cortex-loader",
+  "version": "1.0.0",
+  "description": "a loader used to help webpack resolve cortex module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panyifei/webpack-cortex-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "cortex"
+  ],
+  "author": "panyifei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panyifei/webpack-cortex-loader/issues"
+  },
+  "homepage": "https://github.com/panyifei/webpack-cortex-loader#readme"
+}
